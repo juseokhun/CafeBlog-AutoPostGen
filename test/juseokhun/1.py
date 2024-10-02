@@ -5,3 +5,4 @@ print('hello')
 # git pull 파일 바뀐거 당겨옴
 # git commit -m "메세지내용" 
 # 깃허브에 가서 full request에서 올리기
+# asdf
